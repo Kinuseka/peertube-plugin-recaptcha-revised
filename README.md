@@ -9,3 +9,4 @@ This will be slightly maintained and updated during this date. This version will
 
 # Read First
 This plugin is NOT supported by Framasoft, nor any organisation.
+

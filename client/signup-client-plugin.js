@@ -21,6 +21,7 @@ function initRC(registerHook, peertubeHelpers) {
     const node = document.getElementsByTagName("form")[0]
     const div = document.createElement("div")
     div.setAttribute("class", "g-recaptcha")
+    div.setAttribute("crossOrigin", "anonymous")
     node.appendChild(div)
 
     // global callback definition is the most flexible way, since

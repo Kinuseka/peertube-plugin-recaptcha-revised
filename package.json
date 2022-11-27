@@ -27,7 +27,7 @@
   "engine": {
     "peertube": ">=2.1.0"
   },
-  "homepage": "https://github.com/Kinuseka/peertube-plugin-recaptcha",
+  "homepage": "https://github.com/Kinuseka/peertube-plugin-recaptcha-revised",
   "keywords": [
     "peertube",
     "plugin",

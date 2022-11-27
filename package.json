@@ -1,8 +1,8 @@
 {
-  "name": "peertube-plugin-recaptcha",
+  "name": "peertube-plugin-recaptcha-revised",
   "description": "PeerTube plugin adding ReCaptcha v2 to the signup",
-  "version": "0.0.2",
-  "author": "Rigel Kent",
+  "version": "0.0.3",
+  "author": "Kinuseka",
   "bugs": "https://framagit.org/rigelk/peertube-plugin-recaptcha/issues",
   "clientScripts": [
     {
@@ -27,7 +27,7 @@
   "engine": {
     "peertube": ">=2.1.0"
   },
-  "homepage": "https://framagit.org/rigelk/peertube-plugin-recaptcha",
+  "homepage": "https://github.com/Kinuseka/peertube-plugin-recaptcha",
   "keywords": [
     "peertube",
     "plugin",
